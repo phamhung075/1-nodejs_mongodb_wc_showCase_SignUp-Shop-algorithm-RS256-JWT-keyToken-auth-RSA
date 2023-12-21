@@ -1,5 +1,5 @@
 # Node.js MongoDB Showcase with Authentication (RS256)
-
+This is a personal project created based on the series of lessons by @anonystick (https://github.com/anonystick).
 ## Introduction
 
 `nodejs_mongodb_wc_showCase_auth_RS256` is a Node.js application demonstrating user authentication and data management using MongoDB. It leverages the RS256 algorithm for secure and robust authentication.
